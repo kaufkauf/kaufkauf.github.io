@@ -3,7 +3,7 @@ Finance & Data Analytics Manager @ <a href="https://www.wiley.com/">Wiley</a>; R
 
 ## Projects
 + <a href="https://github.com/kaufkauf/Capstone-Project-Intermediate">Part and Parcel: Predicting North American Freight Costs with Supervised Machine Learning</a>
-+ <a href="https://github.com/kaufkauf/Capstone-Project-Introductory">Springboard Capstone Project: Predicting the Ultimate Customer in Portuguese Bank Marketing</a>
++ <a href="https://github.com/kaufkauf/Capstone-Project-Introductory">Predicting the Ultimate Customer in Portuguese Bank Marketing (Santander Kaggle Challenge)</a>
 
 ## Contact
 + <a href="https://github.com/kaufkauf">GitHub</a>
